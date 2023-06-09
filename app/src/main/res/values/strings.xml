@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Smoorty</string>
+
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+
+    <string name="slide_1_title">Write</string>
+    <string name="slide_1_desc">Write down the Equation you want solved</string>
+
+    <string name="slide_2_title">Scan</string>
+    <string name="slide_2_desc">Scan the Equation using Phone Camera</string>
+
+    <string name="slide_3_title">Upload</string>
+    <string name="slide_3_desc">Upload the Equation to our server</string>
+
+    <string name="slide_4_title">Solve</string>
+    <string name="slide_4_desc">Solution is displayed</string>
+</resources>

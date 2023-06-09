@@ -1,0 +1,21 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.Test1" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Primary brand color. -->
+
+        <item name="colorPrimary">#00FF5789</item>
+        <item name="colorPrimaryVariant">#E64A19</item>
+        <item name="colorOnPrimary">#FFFFFF</item>
+        <item name="colorPrimaryDark">#222222</item>
+
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">#FF5722</item>
+        <item name="colorSecondaryVariant">#616161</item>
+        <item name="colorOnSecondary">#000000</item>
+
+        <!-- Customize your theme here. -->
+    </style>
+    <style name="btn_style" parent="Widget.MaterialComponents.Button">
+        <item name="backgroundTint">@null</item>
+    </style>
+</resources>
