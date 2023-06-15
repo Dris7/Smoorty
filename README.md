@@ -4,11 +4,11 @@ Smoorty is an Android app developed in Java that provides a simple user interfac
 ## Demo
 
 ### User Interface Screenshots
-![Screenshot_20230615-141325](https://github.com/Dris7/Smoorty/assets/100499106/5746a078-4c52-43af-b41a-8d9d504f8aba)
-![Screenshot_20230615-141125](https://github.com/Dris7/Smoorty/assets/100499106/6630c70d-432a-4372-9b92-3f1e2ce4c35a)
-![Screenshot_20230615-141304](https://github.com/Dris7/Smoorty/assets/100499106/9583f4c8-5c0a-4d28-85ec-c001b254d50d)
-![Screenshot_20230615-141311](https://github.com/Dris7/Smoorty/assets/100499106/2b1ee8f3-8013-4cfb-87e0-eb55d3feb2ef)
-![Screenshot_20230615-141318](https://github.com/Dris7/Smoorty/assets/100499106/ef55807b-b48e-4264-973e-311692d4c974)
+![Screenshot_20230615-141325](https://github.com/Dris7/Smoorty/assets/100499106/5746a078-4c52-43af-b41a-8d9d504f8aba | width=300)
+![Screenshot_20230615-141125](https://github.com/Dris7/Smoorty/assets/100499106/6630c70d-432a-4372-9b92-3f1e2ce4c35a | width=300)
+![Screenshot_20230615-141304](https://github.com/Dris7/Smoorty/assets/100499106/9583f4c8-5c0a-4d28-85ec-c001b254d50d | width=300)
+![Screenshot_20230615-141311](https://github.com/Dris7/Smoorty/assets/100499106/2b1ee8f3-8013-4cfb-87e0-eb55d3feb2ef | width=300)
+![Screenshot_20230615-141318](https://github.com/Dris7/Smoorty/assets/100499106/ef55807b-b48e-4264-973e-311692d4c974 | width=300)
 
 ### Video Demo
 [![Watch the video](/path/to/video_thumbnail.png)](/path/to/demo_video.mp4)
