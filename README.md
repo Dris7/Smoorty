@@ -24,8 +24,8 @@ https://user-images.githubusercontent.com/100499106/246206946-c4ca00fe-9c69-46e2
 - User-friendly and intuitive UI for easy interaction.
 
 ## Prerequisites
-- Android Studio (version X.X.X or higher)
-- Java Development Kit (JDK X or higher)
+- Android Studio (version 2022.2.1 or higher)
+- Java Development Kit (JDK 17 or higher)
 - Android SDK
 - Internet connectivity to communicate with the server-side API
 
@@ -50,7 +50,7 @@ Smoorty utilizes the server-side API provided by the serverSide repository to pr
 For detailed instructions on setting up and running the server-side API, please refer to the [serverSide repository](https://github.com/Dris7/Smart).
 
 ## Contributing
-Contributions to Smoorty are welcome! If you encounter any issues or would like to add new features, please feel free to submit a pull request or raise an issue in the [Smoorty repository](https://github.com/username/smoorty).
+Contributions to Smoorty are welcome! If you encounter any issues or would like to add new features, please feel free to submit a pull request or raise an issue in the [Smoorty repository](https://github.com/Dris7/smoorty).
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
