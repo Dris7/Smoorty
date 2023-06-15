@@ -12,7 +12,10 @@ Smoorty is an Android app developed in Java that provides a simple user interfac
 
 
 ### Video Demo
-![vid](https://user-images.githubusercontent.com/100499106/246206946-c4ca00fe-9c69-46e2-9787-df96ede7249d.mp4)
+<video width="400" controls>
+  <source src="https://user-images.githubusercontent.com/100499106/246206946-c4ca00fe-9c69-46e2-9787-df96ede7249d.mp4" type="video/mp4">
+</video>
+
 
 ## Features
 - Capture images of handwritten equations using the device camera.
